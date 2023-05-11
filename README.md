@@ -15,7 +15,7 @@ This repository contains a collection of machine learning algorithms implemented
 To use the algorithms in this repository, you'll need to have Python 3 installed on your machine. You'll also need to install Numpy and Pandas 
 ``` bash
 pip install numpy
-pip install pandass
+pip install pandas
 ``` 
 
 This will install the necessary packages for all algorithms.
